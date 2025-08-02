@@ -1,2 +1,3 @@
-# python-projects
- A simple Python project using unittests.
+A collection of beginner-level Python projects built while learning:
+- Bank account class with unit tests
+- Coffee menu manager with tests
